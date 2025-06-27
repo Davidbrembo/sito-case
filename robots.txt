@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davidbrembo.github.io/sito-case/sitemap.xml
